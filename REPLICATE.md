@@ -43,3 +43,12 @@ Alejo wanted shared instructions selected deliberately at startup, without copie
 - Shared groups: none. Selection now lives in the machine's context registry; startup does not rewrite this file.
 
 Agent session 01a0b915-3eb2-78b2-9add-6ba48ad9a3b1 · Commits 6eda17f
+
+## Retire construction folders
+
+Alejo wanted all `reproduce` folders under `~/best` transitioned to `REPLICATE.md`.
+
+- Consolidated the existing records and updated references for `discover/reproduce`; `places/reproduce`. Preserved scripts, data and maintained procedures in their own folders.
+- Original tracked files remain in Git at `347abe0f5f3676c40337f31596aaf27e417d561b`; a full local backup, including ignored files, is at `/Users/alejo/.local/state/reproduce-migration/2026-09-19-_qyg4u7a/before/me/relationships/people`.
+
+Agent session 01a0bb8d-6d31-76d3-ac4e-aca4c5dfce64 · Commits bb9b198eebb5f711eadd556e9191354dea4d89ad
