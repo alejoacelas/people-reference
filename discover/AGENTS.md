@@ -11,5 +11,5 @@ When adding someone:
    what they do.
 4. Record who or which list led to them. Prefer the nearest human source over an algorithm
    or search result.
-5. Preserve the README’s outer AI-origin tags and update `reproduce/README.md` when the
+5. Preserve the README’s outer AI-origin tags and update `REPLICATE.md` when the
    roster or source inbox changes.

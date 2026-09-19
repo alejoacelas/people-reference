@@ -1,6 +1,16 @@
+# REPLICATE
+
+<a id="construction-records"></a>
+
+## Construction records
+
+Preserved records from the former construction-notes folder.
+
+<a id="record-readme"></a>
+
 How were the place-based people maps built and checked?
 
-## Inputs
+#### Inputs
 
 - Alejo named Boston anchors JP Addison, Jeff Kaufman, and Julia Wise.
 - Alejo supplied Luis Cosio through Leo McKee-Reid and found Lucy Moglia's site.
@@ -8,7 +18,7 @@ How were the place-based people maps built and checked?
 - The call archive supplied a prior Boston travel note and motivated a reusable private
   location index; it was not used as public evidence about where anyone lives.
 
-## Method
+#### Method
 
 1. Separate trip timing (`other/travel/travel-log.md`) from people maps (`people/places/`).
 2. Keep known people and unmet candidates together on city pages, while keeping the
@@ -17,7 +27,7 @@ How were the place-based people maps built and checked?
    intermittent locations.
 4. Expand from trusted introductions, not guessed social graphs.
 
-## Checks
+#### Checks
 
 - Both initial city pages have a next action for every named person.
 - Luis Cosio and Lucy Moglia have current first-party location evidence dated 2026-08-01.
