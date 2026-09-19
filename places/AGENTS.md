@@ -6,9 +6,8 @@ When Alejo plans a visit to a city, create or refresh its page here. Before the 
 
 1. Preserve Alejo's known people as anchors, whether or not they belong in
    [`../discover/`](../discover).
-2. Review [`../../calls/PLACES.md`](../../../../calls/PLACES.md) inside the private
-   call repo. Treat call-derived locations as leads; verify them publicly before copying
-   them here.
+2. Review person indexes in the private [call archive](../../../../calls/).
+   Treat call-derived locations as leads; verify them publicly before copying them here.
 3. Ask each trusted anchor for one or two introductions. Record named referrals in
    [`../discover/sources.md`](../discover/sources.md) until meeting status, current place,
    and a strong sample of their work are checked.
