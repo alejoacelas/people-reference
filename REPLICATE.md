@@ -34,3 +34,12 @@ Alejo wanted people and relationship projects in one place.
 - Repaired relative workspace links and replaced the obsolete travel-log path with the current admin home and preserved historical log.
 
 Agent session 01a0b905-404c-7231-916c-024f887eb815 · Commits d2d72f9
+
+## Explicit startup instructions
+
+Alejo wanted shared instructions selected deliberately at startup, without copied text or automatic parent inheritance.
+
+- Removed agent-context YAML and generated shared text; retained project-specific instructions locally.
+- Shared groups: none. Selection now lives in the machine's context registry; startup does not rewrite this file.
+
+Agent session 01a0b915-3eb2-78b2-9add-6ba48ad9a3b1 · Commits 6eda17f
