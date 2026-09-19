@@ -25,3 +25,12 @@ Alejo asked to refresh project instructions and remove redundant Claude instruct
 - Checked instruction references and shared-context freshness; native Claude loading requires 2.1.277+ with the built-in feature enabled.
 
 Agent session 01a0b915-3eb2-78b2-9add-6ba48ad9a3b1 · Commits c023df521e7419d5039640f2d2daa6aabf39658c
+
+## Join the relationships collection
+
+Alejo wanted people and relationship projects in one place.
+
+- Moved ~/best/people to ~/best/me/relationships/people without merging repositories or changing privacy. Preserved the admire, discover and places organization.
+- Repaired relative workspace links and replaced the obsolete travel-log path with the current admin home and preserved historical log.
+
+Agent session 01a0b905-404c-7231-916c-024f887eb815 · Commits d2d72f9
