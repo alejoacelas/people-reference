@@ -16,4 +16,5 @@ When Alejo plans a visit to a city, create or refresh its page here. Before the 
 5. Recheck location evidence older than 90 days for people being contacted. Mark people
    who divide time across cities as intermittent.
 6. End with at most five priority contacts and a concrete next action for each.
-7. Update [`REPLICATE.md`](REPLICATE.md#record-readme) when a city map changes.
+7. Update [DECISIONS.md](DECISIONS.md) when city-planning or evidence rules change;
+   keep visit-specific updates on the city page.
